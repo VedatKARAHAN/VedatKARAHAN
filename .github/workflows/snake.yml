@@ -1,7 +1,0 @@
-name: Generate Snake Animation
-
-on: schedule: - cron: '0 */12 * * *'
-
-workflow_dispatch:
-
-jobs: build: runs-on: ubuntu-latest steps: - name: Checkout uses: actions/checkout@v3
