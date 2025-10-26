@@ -1,3 +1,4 @@
+=== BAŞLANGIÇ ===
 <p align="center"> <img src="" alt="Merhaba Dünya Banner" width="800"/> </p>
 
 <h1 align="center">👋 Merhaba, ben Vedat KARAHAN</h1> <h3 align="center">Bilgisayar Programcılığı Öğrencisi | Mobil & Full-Stack Geliştirici</h3>
@@ -37,3 +38,5 @@ Profesyonel Gelişim: Proje Yönetimi Temelleri, Etkili İletişim, Mülakat Tek
 
 📫 Bana Ulaşın!
 <p align="center"> <a href="mailto:vedatkarahan0434@gmail.com"> <img src="" alt="Email"/> </a> <a href="" target="_blank"> <img src="" alt="LinkedIn"/> </a> </p>
+
+=== BİTİŞ ===
