@@ -1,82 +1,100 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaiahC/MicaiahC/main/assets/readme-banner.gif" alt="Merhaba Dünya Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/MicaiahC/MicaiahC/main/assets/readme-banner.gif" alt="Cyber Banner" width="800"/>
 </p>
 
-<h1 align="center">🕵️‍♂️ Merhaba, ben Vedat KARAHAN</h1>
-<h3 align="center">Siber Güvenlik Stajyeri Adayı | Offensive Güvenlik Meraklısı</h3>
+<h1 align="center">🛡️ Merhaba, ben Vedat KARAHAN</h1>
+<h3 align="center">Siber Güvenlik Öğrencisi | Ağ & Sistem Güvenliği | Pentesting Meraklısı</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/html?font=Fira+Code&size=22&pause=1000&color=FF6347&center=true&vCenter=true&width=480&lines=Python+ile+Güvenlik+Betikleri+Geliştiriyorum;Ağ+ve+Sistem+Zafiyetlerini+Araştırıyorum;Web+Uygulama+Güvenliği+ve+Pentest+Odaklı;Sürekli+yeni+saldırı+ve+savunma+teknikleri+öğreniyorum!" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Siber+Güvenlik+%7C+Pentest+%7C+CTF;Ağ+ve+Sistem+Güvenliği;Zafiyet+Analizi+ve+Sızma+Testleri;Sürekli+Araştırıyor%2C+Gelişiyorum!" />
+  </a>
 </p>
 
 <p align="center">
-  Bilgisayar Programcılığı öğrencisi olarak temel yazılım geliştirme bilgimi (Python, C#, Dart) siber güvenlik alanına aktarmaya odaklandım. 
+  Siber güvenlik alanında kendimi geliştiren ve bu alanda kariyer hedefleyen biriyim.  
   <br>
-  Özellikle **ağ temelleri**, **sistem yönetimi** ve **zafiyet analizi** konularında gelişmeyi hedefliyor, **analitik düşünme** ve **araştırma** becerilerimle güvenlik araştırmaları yapıyorum.
+  Pentesting, ağ güvenliği, zararlı yazılım analizi ve Linux dünyasına duyduğum ilgi ile her gün yeni bir şey öğrenmeyi seviyorum.
 </p>
 
 ---
 
-## 🛡️ Siber Güvenlik ve Destekleyici Teknolojilerim
+## 🛠️ Kullanmayı Öğrendiğim Güvenlik Araçları
 
-Saldırı mantığını anlamak ve otomatikleştirmek için kullandığım ve öğrendiğim teknolojiler:
-
-### Güvenlik Odak Alanları
-* **Sistem Güvenliği:** Windows Server temelleri, Active Directory giriş düzeyi, kullanıcı/grup yönetimi.
-* **Ağ Analizi:** TCP/IP, subnetting, VLAN mantığı, port/protokol bilgisi ile ağ keşfi ve zafiyet tespiti temelleri.
-* **Web Güvenliği:** HTML5 bilgisi ve XSS, CSRF gibi temel web zafiyet mantığına hakimiyet.
-* **Veritabanı Güvenliği:** SQL sorgulama bilgisi ile olası enjeksiyon zafiyetlerini anlama.
-
-### Programlama ve Otomasyon Dilleri
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-009639?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Command_Line-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-A30000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
 ---
 
-## 🎓 Yetkinlikler ve Öğrenim Alanları
+## 📚 Siber Güvenlik Öğrenme Alanlarım
 
-* **Siber Güvenlik & Ağ Temelleri:**
-    * Siber Güvenliğe Giriş
-    * Sosyal Mühendislik ve Oltalama
-    * Temel Ağ Teknolojileri
-    * Log Mantığı, Saldırı Vektörleri ve Parola Güvenliği
-* **Güvenlik Betiği ve Analiz Desteği:**
-    * Python Programlama (101, 201, 301, 401) ve OOP
-    * SQL Sorgulama (101)
-    * Web Programlama (HTML5, Temel Web Güvenliği)
-* **Sistem ve IT Temelleri:**
-    * İşletim Sistemlerine Giriş
-    * Bilgi Teknolojilerine Giriş
-* **Profesyonel Gelişim:** Problem Çözme Teknikleri, Proje Yönetimi, Analitik Düşünme.
+- **Ağ Güvenliği & Protokoller (TCP/IP, DNS, DHCP, VLAN)**
+- **Sızma Testi (Web, Network, Mobile)**
+- **Zafiyet Analizi & Exploit Geliştirme Temelleri**
+- **Linux Sistem Yönetimi**
+- **Siber Vatan ve CEH içerikleri ile uyumlu çalışmalar**
+- **Wireshark ile paket analizi**
+- **Nmap, Gobuster, Hydra, Nikto pratikleri**
+- **Temel Kriptografi**
 
 ---
 
-## 📈 GitHub İstatistiklerim (Güvenlik Projelerim Yolda!)
+## 🧪 Üzerinde Çalıştığım / Yapmayı Planladığım Siber Güvenlik Projeleri
+
+- 🔍 **Zafiyetli web uygulamaları üzerinde pentest pratiği**  
+  (DVWA, Juice Shop, WebGoat)
+
+- 🧬 **Kendi CTF lab ortamımı kurma**  
+  (TryHackMe + HackTheBox)
+
+- 🛡️ **Python ile basit güvenlik araçları geliştirme**  
+  - Port tarayıcı  
+  - Basit brute-force scripti  
+  - Log analiz aracı
+
+- 🌐 **Siber güvenlik notları / cheat-sheet deposu oluşturma**
+
+---
+
+## 🧾 Sertifikalar ve Eğitimler
+
+- **Siber Güvenliğe Giriş**
+- **Ağ Teknolojileri & İşletim Sistemleri**
+- **Google Çevrim İçi Güvenlik**
+- **SQL 101 – Veri Tabanı Güvenliği Temelleri**
+- **Python & C# Programlama**
+
+---
+
+## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedatKARAHAN&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="VedatKARAHAN'ın GitHub İstatistikleri"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatKARAHAN&layout=compact&theme=nord&hide_border=true" alt="En Çok Kullanılan Diller"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedatKARAHAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatKARAHAN&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/VedatKARAHAN/VedatKARAHAN/blob/output/github-contribution-grid-snake.svg" alt="Katkı Yılanı" width="90%"/>
+  <img src="https://github.com/VedatKARAHAN/VedatKARAHAN/blob/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
 ---
 
-## 📫 Bana Ulaşın!
+## 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:vedatkarahan0434@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:vedatkarahan.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vedat-karahan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
