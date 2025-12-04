@@ -65,3 +65,21 @@ Bilgisayar Programcılığı öğrencisiyim. Hedefim **Sızma Testi (Penetration
 <p align="center">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/black-footer.svg" width="100%">
 </p>
+---
+
+## 🔥 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedatKARAHAN&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatKARAHAN&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/VedatKARAHAN/VedatKARAHAN/blob/output/github-contribution-grid-snake.svg" width="90%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/black-footer.svg" width="100%">
+</p>
