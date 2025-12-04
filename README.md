@@ -1,145 +1,64 @@
-<h1 align="center">⚡ Vedat KARAHAN ⚡</h1>
-<h3 align="center">Sızma Testi Uzmanı Adayı | Siber Güvenlik Öğrencisi</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/black.gif" width="900"/>
+</p>
+
+<h1 align="center">⚡ VEDAT KARAHAN ⚡</h1>
+<h3 align="center">Sızma Testi Uzmanı Adayı | Bilgisayar Programcılığı Öğrencisi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Sızma+Testi+Uzmanı+Olma+Hedefi;Ağ+ve+Sistem+Temelleri+%C3%96ğreniyorum;Linux+ve+Kali+Temellerinde+Geli%C5%9Fiyorum;S%C4%B1f%C4%B1rdan+Siber+G%C3%BCvenlik+Yolculu%C4%9Funday%C4%B1m"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=Sızma+Testi+%7C+Ağ+%7C+Linux+%7C+Sürekli+Öğrenme"/>
 </p>
 
 ---
 
-## 🧑‍💻 **Hakkımda (Gerçekçi ve Abartısız)**
-
-Ben Vedat Karahan.  
-Bilgisayar Programcılığı öğrencisiyim ve kariyer hedefim **Sızma Testi Uzmanı (Penetration Tester)** olmak.
-
-Şu anda özellikle:
-
-- **Ağ temelleri**
-- **Siber güvenlik temelleri**
-- **Linux / Kali Linux başlangıç seviyesi**
-- **Temel güvenlik araçlarına giriş**
-- **Web güvenliği mantığı (çok temel)**
-
-üzerinde çalışıyorum.
-
-Henüz ileri seviye teknik bilgilere sahip değilim,  
-ama öğrenmeye *çok açık*, düzenli çalışan ve hedefe odaklı biriyim.
-
-Adım adım kendimi sızma testi alanında geliştirmeyi planlıyorum.
+## 👤 İletişim
+- **Telefon:** 0553 658 0504  
+- **E-posta:** vedatkarahan0434@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/vedat-karahan  
+- **GitHub:** https://github.com/Vedat-KARAHAN  
+- **Konum:** İstanbul / Arnavutköy
 
 ---
 
-## 🎯 **Kariyer Hedefim**
-
-**Sızma Testi Uzmanı (Pentester) → Red Team → Offensive Security**
-
-Şu anda temel seviyedeyim, ancak ilerlemek istediğim alanlar:
-
-- Web uygulama sızma testleri (temel seviyede anlamaya çalışıyorum)
-- Ağ sızma testleri (başlangıç)
-- Linux ve temel pentest araçları öğrenme
-- Zafiyetlerin nasıl oluştuğunu kavrama
-- Temel exploit mantığına giriş
-
-Benim hedefim **bilmediğimi öğrenmek**, ezberlemek değil **mantığını kavramak**.
+## 🧾 Özet
+Bilgisayar Programcılığı öğrencisiyim. Hedefim **Sızma Testi (Penetration Testing)** alanında kariyer yapmak.  
+Şu an temel seviyede ağ, sistem ve Linux bilgisine sahibim; bilmediğim çok şey olduğunu kabul ediyorum ve bunu öğrenmeye odaklıyım. Amacım teoriyi uygulama ile pekiştirerek adım adım pentest yetkinliği kazanmak.
 
 ---
 
-## 📍 **İletişim**
+## 🛠️ Teknik Alanlar (Mevcut / Öğrenme Aşaması)
+- **Ağ Temelleri:** TCP/IP, subnetting (öğrenme aşaması), DHCP, DNS, port/protokol mantığı  
+- **Sistem Yönetimi:** Windows Server (giriş), temel kullanıcı/grup yönetimi, AD (giriş)  
+- **Linux & Kali:** terminal komutları, dosya ve kullanıcı yönetimi, paket yönetimi (başlangıç)  
+- **Siber Güvenlik Temelleri:** SOC kavramı, oltalama mantığı, zafiyet türlerinin temelleri (XSS, CSRF, SQLi - giriş)  
+- **Programlama:** Python (temel-orta), C#, SQL, HTML/CSS, PHP
 
-- **📞 Telefon:** 0553 658 0504  
-- **📧 E-posta:** vedatkarahan0434@gmail.com  
-- **💼 LinkedIn:** linkedin.com/in/vedat-karahan  
-- **💻 GitHub:** github.com/Vedat-KARAHAN  
-- **📌 Konum:** İstanbul / Arnavutköy  
-
----
-
-## 🛠️ **Şu Anda Öğrenmekte Olduğum Temeller (Abartısız)**
-
-### 🔹 Ağ Temelleri
-- TCP/IP mantığı
-- IP – Subnet kavramı
-- DHCP / DNS nedir? (temel)
-- Port – protokol mantığı
-
-> Henüz gelişme aşamasındayım, ileri düzey değil.
-
-### 🔹 Linux & Kali Temelleri
-- Linux temel komutları
-- Dosya ve kullanıcı yönetimi
-- Paket kurulumları
-- Kali’de araçların mantığı
-
-> Araçların tümünü bilmiyorum, öğrenme aşamasındayım.
-
-### 🔹 Siber Güvenlik Temelleri
-- SOC kavramlarının giriş seviyesi
-- Oltalama saldırılarının mantığı
-- Zafiyet türlerine giriş (XSS, CSRF, SQLi – sadece temeller)
-- Log mantığına giriş
-
-### 🔹 Programlama
-- Python (temel-orta seviye)
-- C#
-- SQL
-- HTML/CSS
-- PHP (temel)
+> Not: Her başlıkta "ileri seviye" değil; şu an aktif öğrenme sürecindeyim.
 
 ---
 
-## 🏆 **Sertifikalarım (Gerçekçi Profil)**
-
-Aldığım eğitimler tamamen temel seviyede olup çoğu giriş niteliğindedir:
-
-- Siber Güvenliğe Giriş  
-- Temel Ağ Teknolojileri  
-- Sosyal Mühendislik  
-- Dijital Güvenlik  
-- Python 101–401  
-- C# OOP  
-- SQL 101  
-- Web Geliştirme 101  
-- İşletim Sistemlerine Giriş  
-- Problem Çözme & Proje Yönetimi  
-
-> Bu sertifikalar beni uzman yapmıyor; sadece temel altyapı sağlıyor.
+## 🎯 Hedefler
+1. Web uygulama sızma testleri konusunda temel yetkinlik kazanmak.  
+2. Ağ sızma testleri pratikleri yapmak.  
+3. Kali & Linux üzerine günlük pratik kurmak.  
+4. TryHackMe / HTB lab’larında düzenli çözüm + CTF tecrübesi kazanmak.  
+5. Uzun vadede profesyonel pentester olmak.
 
 ---
 
-## 🧪 **Gelişim Sürecim**
-
-- TryHackMe başlangıç seviyesinde lab çözmeye başladım  
-- Linux terminal pratiği yapıyorum  
-- Ağ ve sistem temellerimi güçlendirmeye odaklanıyorum  
-- Sızma testi yol haritası oluşturup düzenli çalışıyorum  
-
----
-
-## 🔥 **Özelliklerim**
-- Hızlı öğrenen  
-- Araştırmaya açık  
-- Sabırlı ve düzenli çalışan  
-- Analitik düşünmeye yatkın  
-- “Bilmiyorum” demekten çekinmeyen ve öğrenmeye istekli  
+## 🧪 Deneyim & Eğitim
+- Bandırma Onyedi Eylül Üniversitesi — Bilgisayar Programcılığı (2024–2026)  
+- Siber Güvenliğe Giriş, Temel Ağ Teknolojileri, Sosyal Mühendislik gibi giriş seviye eğitim sertifikaları  
+- Laboratuvar ortamında ağ ve sistem temelleri çalışmaları  
+- Staj başvuruları ve girişim süreci devam ediyor
 
 ---
 
-## 🖤 **Neden Sızma Testi?**
-
-Çünkü:
-
-- Sistemleri bozmayı değil **anlamayı**
-- Zafiyet bulmayı değil **neden oluştuğunu öğrenmeyi**
-- Ezberlemeyi değil **mantığını çözmeyi**
-
-seviyorum.
-
-Kısa vadede hedefim:  
-**Web ve ağ pentest alanında sağlam temeller oluşturmak.**
-
-Uzun vadede hedefim:  
-**Profesyonel Pentester olmak.**
+## 🧩 Özellikler
+- Hızlı öğrenirim, araştırmayı severim.  
+- Teknik dokümantasyon yazmaya istekliyim.  
+- "Bilmiyorum" demekten çekinmem; öğrenirim.  
+- Analitik düşünme ve problem çözme odaklıyım.
 
 ---
 
