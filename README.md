@@ -15,25 +15,22 @@
 - **Telefon:** 0553 658 0504  
 - **E-posta:** vedatkarahan0434@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/vedat-karahan  
-- **GitHub:** https://github.com/Vedat-KARAHAN  
 - **Konum:** İstanbul / Arnavutköy
 
 ---
 
 ## 🧾 Özet
 Bilgisayar Programcılığı öğrencisiyim. Hedefim **Sızma Testi (Penetration Testing)** alanında kariyer yapmak.  
-Şu an temel seviyede ağ, sistem ve Linux bilgisine sahibim; bilmediğim çok şey olduğunu kabul ediyorum ve bunu öğrenmeye odaklıyım. Amacım teoriyi uygulama ile pekiştirerek adım adım pentest yetkinliği kazanmak.
+Şu an temel seviyede ağ, sistem ve Linux bilgisine sahibim , öğrenmeye odaklıyım. Amacım teoriyi uygulama ile pekiştirerek adım adım pentest yetkinliği kazanmak.
 
 ---
 
-## 🛠️ Teknik Alanlar (Mevcut / Öğrenme Aşaması)
-- **Ağ Temelleri:** TCP/IP, subnetting (öğrenme aşaması), DHCP, DNS, port/protokol mantığı  
-- **Sistem Yönetimi:** Windows Server (giriş), temel kullanıcı/grup yönetimi, AD (giriş)  
-- **Linux & Kali:** terminal komutları, dosya ve kullanıcı yönetimi, paket yönetimi (başlangıç)  
-- **Siber Güvenlik Temelleri:** SOC kavramı, oltalama mantığı, zafiyet türlerinin temelleri (XSS, CSRF, SQLi - giriş)  
-- **Programlama:** Python (temel-orta), C#, SQL, HTML/CSS, PHP
-
-> Not: Her başlıkta "ileri seviye" değil; şu an aktif öğrenme sürecindeyim.
+## 🛠️ Teknik Alanlar 
+- **Ağ Temelleri:** TCP/IP, subnetting , DHCP, DNS, port/protokol mantığı  
+- **Sistem Yönetimi:** Windows Server , temel kullanıcı/grup yönetimi,   
+- **Linux :** terminal komutları, dosya ve kullanıcı yönetimi, paket yönetimi (başlangıç)  
+- **Siber Güvenlik Temelleri:** SOC kavramı, oltalama mantığı, zafiyet türlerinin temelleri (XSS, CSRF, SQLi )  
+- **Programlama:** Python (temel-orta), C#, SQL, PHP , C , JavaScript , Dart
 
 ---
 
@@ -47,10 +44,10 @@ Bilgisayar Programcılığı öğrencisiyim. Hedefim **Sızma Testi (Penetration
 ---
 
 ## 🧪 Deneyim & Eğitim
-- Bandırma Onyedi Eylül Üniversitesi — Bilgisayar Programcılığı (2024–2026)  
+- Bandırma Onyedi Eylül Üniversitesi — Bilgisayar Programcılığı 3.63/4 (2024–2026)  
 - Siber Güvenliğe Giriş, Temel Ağ Teknolojileri, Sosyal Mühendislik gibi giriş seviye eğitim sertifikaları  
-- Laboratuvar ortamında ağ ve sistem temelleri çalışmaları  
-- Staj başvuruları ve girişim süreci devam ediyor
+- Laboratuvar ortamında ağ ve sistem temelleri çalışmaları
+- Aktif olarak Hackerviser'de çalışmalar yapıyorum  
 
 ---
 
