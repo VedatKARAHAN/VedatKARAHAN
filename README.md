@@ -17,17 +17,17 @@
 
 ---
 
-### 🛡️ Siber Güvenlik ve Destekleyici Teknolojilerim
+## 🛡️ Siber Güvenlik ve Destekleyici Teknolojilerim
 
 Saldırı mantığını anlamak ve otomatikleştirmek için kullandığım ve öğrendiğim teknolojiler:
 
-#### Güvenlik Odak Alanları
+### Güvenlik Odak Alanları
 * **Sistem Güvenliği:** Windows Server temelleri, Active Directory giriş düzeyi, kullanıcı/grup yönetimi.
 * **Ağ Analizi:** TCP/IP, subnetting, VLAN mantığı, port/protokol bilgisi ile ağ keşfi ve zafiyet tespiti temelleri.
 * **Web Güvenliği:** HTML5 bilgisi ve XSS, CSRF gibi temel web zafiyet mantığına hakimiyet.
 * **Veritabanı Güvenliği:** SQL sorgulama bilgisi ile olası enjeksiyon zafiyetlerini anlama.
 
-#### Programlama ve Otomasyon Dilleri
+### Programlama ve Otomasyon Dilleri
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -39,7 +39,7 @@ Saldırı mantığını anlamak ve otomatikleştirmek için kullandığım ve ö
 
 ---
 
-### 🎓 Yetkinlikler ve Öğrenim Alanları
+## 🎓 Yetkinlikler ve Öğrenim Alanları
 
 * **Siber Güvenlik & Ağ Temelleri:**
     * Siber Güvenliğe Giriş
@@ -57,7 +57,7 @@ Saldırı mantığını anlamak ve otomatikleştirmek için kullandığım ve ö
 
 ---
 
-### 📈 GitHub İstatistiklerim (Güvenlik Projelerim Yolda!)
+## 📈 GitHub İstatistiklerim (Güvenlik Projelerim Yolda!)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedatKARAHAN&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="VedatKARAHAN'ın GitHub İstatistikleri"/>
@@ -70,7 +70,7 @@ Saldırı mantığını anlamak ve otomatikleştirmek için kullandığım ve ö
 
 ---
 
-### 📫 Bana Ulaşın!
+## 📫 Bana Ulaşın!
 
 <p align="center">
   <a href="mailto:vedatkarahan0434@gmail.com">
