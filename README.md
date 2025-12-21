@@ -13,7 +13,7 @@
 
 ## 👤 İletişim
 - **Telefon:** 0553 658 0504  
-- **E-posta:** vedatkarahan0434@gmail.com  
+- **E-posta:** vedatkarahan.sec@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/vedat-karahan  
 - **Konum:** İstanbul / Arnavutköy
 
